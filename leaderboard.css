@@ -1,0 +1,134 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    font-family: 'Ubuntu Condensed', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: url("leaderboardbg.jpg") no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+    
+}
+#navigation {
+    display: flex;
+    align-items: center;
+}
+
+
+.half_left ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
+
+.half_left ul li {
+    margin: 10px;
+}
+
+.half_left ul li a {
+    padding: 10px;
+    color: white;
+} 
+
+.half_left ul li a:hover {
+    color: rgb(0, 0, 0);
+}
+
+.half_left ul img {
+    height: auto;
+    width: 100px;
+    margin: 5px;
+}
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 2px solid darkorange;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 1);
+    backdrop-filter: blur(8px);
+}
+
+h1 {
+    text-align: center;
+    font-size: 45px;
+    color: white;
+    margin: 40px;
+    margin-bottom: 60px;
+
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+#header{
+    font-weight: bold;
+    font-size: xx-large;
+    background-image: linear-gradient(rgb(158, 43, 218), rgb(248, 19, 156));
+}
+th, td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    color: #333;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+tbody{
+    color: white;
+    font-size: 22px;
+}
+.rank {
+    width: 70px;
+    text-align: center;
+    height: 61px;
+}
+
+.player {
+    width: 350px;
+    text-align: center;
+}
+
+.score {
+    width: 100px;
+    text-align: center;
+}
+
+.rank.gold {
+    background-color: #f2d500;
+}
+
+.rank.silver {
+    background-color: #b7b1b1;
+}
+
+.rank.bronze {
+    background-color: #a8590b;
+}
+
+.rank.gold, .rank.silver, .rank.bronze {
+    color: #fff;
+}
+
+.rank-number {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    border-radius: 50%;
+    font-size: 14px;
+    font-weight: bold;
+}
+.rank-number img{
+    width: 60px;
+    margin-left: -16px;
+}

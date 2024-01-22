@@ -1,0 +1,110 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-image: url("signupbg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+#navigation {
+    display: flex;
+    align-items: center;
+}
+
+
+.half_left ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
+
+.half_left ul li {
+    margin: 10px;
+}
+
+.half_left ul li a {
+    padding: 10px;
+    color: white;
+}
+
+.half_left ul li a:hover {
+    color: rgb(0, 0, 0);
+}
+
+.half_left ul img {
+    height: auto;
+    width: 100px;
+    margin: 5px;
+}
+
+.container {
+    font-family: 'Ubuntu Condensed', sans-serif;
+    width: 400px;
+    margin: 100px auto;
+    background-color: transparent;
+    padding: 40px;
+    border: 2px solid white;
+    border-radius: 15px;
+    backdrop-filter: blur(8px);
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.3);
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    font-size: larger;
+    margin-bottom: 10px;
+}
+
+.inputfield {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 20px;
+    background: transparent;
+    border: none;
+    border-bottom:2px solid white ;
+    font-size: larger;
+    transition: 0.3s ease;
+    
+}
+.inputfield:focus{
+    font-size: x-large;
+    outline: none;
+    border-bottom:2px solid rgb(255, 166, 0) ;
+}
+
+.inputfield::placeholder{
+    color: lightblue;
+}
+
+#signupbtn {
+    padding: 10px 20px;
+    background-color: #407d43;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-weight: bolder;
+    font-size: larger;
+    border-radius: 5px;
+}
+#signupbtn:hover{
+    background-color: #528e55;
+}
+.container p {
+    text-align: center;
+}
+.container p a{
+    text-decoration: none;
+    color: greenyellow;
+}

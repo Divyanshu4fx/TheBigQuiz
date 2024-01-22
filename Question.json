@@ -1,0 +1,1112 @@
+{
+    "spaceQuestions": [
+        {
+            "question": "Which planet in our solar system has the most moons?",
+            "options": [
+                "Jupiter",
+                "Saturn",
+                "Uranus",
+                "Neptune"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Which spacecraft was the first to land humans on the Moon?",
+            "options": [
+                "Apollo 11",
+                "Apollo 13",
+                "Apollo 17",
+                "Gemini 12"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Which of the following is NOT a type of galaxy?",
+            "options": [
+                "Spiral",
+                "Elliptical",
+                "Irregular",
+                "Tetrahedral"
+            ],
+            "answer": 4
+        },
+        {
+            "question": "Which planet in our solar system has the shortest day?",
+            "options": [
+                "Venus",
+                "Jupiter",
+                "Mars",
+                "Saturn"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "What is the name of the first artificial satellite launched into orbit?",
+            "options": [
+                "Sputnik 1",
+                "Explorer 1",
+                "Vanguard 1",
+                "Telstar 1"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Which planet has the largest volcano in our solar system?",
+            "options": [
+                "Earth",
+                "Mars",
+                "Venus",
+                "Mercury"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Which of the following is NOT a type of spacecraft propulsion system?",
+            "options": [
+                "Ion",
+                "Nuclear",
+                "Solar",
+                "Wind"
+            ],
+            "answer": 4
+        },
+        {
+            "question": "What is the name of the largest moon of Saturn?",
+            "options": [
+                "Io",
+                "Europa",
+                "Titan",
+                "Triton"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Which planet in our solar system has the strongest magnetic field?",
+            "options": [
+                "Earth",
+                "Jupiter",
+                "Uranus",
+                "Neptune"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "What is the name of the first American woman to walk in space?",
+            "options": [
+                "Sally Ride",
+                "Mae Jemison",
+                "Kathryn Sullivan",
+                "Peggy Whitson"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "What is the smallest planet in our solar system?",
+            "options": [
+                "Venus",
+                "Mercury",
+                "Mars",
+                "Neptune"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Which planet in our solar system is known for its Great Red Spot?",
+            "options": [
+                "Mars",
+                "Jupiter",
+                "Saturn",
+                "Uranus"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "What is the name of the first rover to operate on Mars?",
+            "options": [
+                "Spirit",
+                "Opportunity",
+                "Curiosity",
+                "Perseverance"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Which space telescope was launched in 1990 and has revolutionized our understanding of the universe?",
+            "options": [
+                "Hubble Space Telescope",
+                "Chandra X-ray Observatory",
+                "Spitzer Space Telescope",
+                "Fermi Gamma-ray Space Telescope"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Which planet in our solar system is known for its rings?",
+            "options": [
+                "Jupiter",
+                "Saturn",
+                "Uranus",
+                "Neptune"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "What is the name of the first private spacecraft to carry humans to orbit?",
+            "options": [
+                "Dragon",
+                "Orion",
+                "Starliner",
+                "Crew Dragon"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "What is the name of the largest moon in our solar system?",
+            "options": [
+                "Ganymede",
+                "Titan",
+                "Callisto",
+                "Europa"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Which planet in our solar system has the longest day?",
+            "options": [
+                "Venus",
+                "Mercury",
+                "Mars",
+                "Jupiter"
+            ],
+            "answer": 4
+        },
+        {
+            "question": "What is the name of the first space station launched into orbit?",
+            "options": [
+                "Mir",
+                "Skylab",
+                "Salyut 1",
+                "Tiangong"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Which planet in our solar system has the most rings?",
+            "options": [
+                "Jupiter",
+                "Saturn",
+                "Uranus",
+                "Neptune"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "What is the name of the first space shuttle to launch into orbit?",
+            "options": [
+                "Enterprise",
+                "Challenger",
+                "Columbia",
+                "Discovery"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Which planet in our solar system is known for its extreme axial tilt?",
+            "options": [
+                "Mars",
+                "Uranus",
+                "Neptune",
+                "Pluto"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "What is the name of the first commercial spacecraft to carry humans to orbit?",
+            "options": [
+                "Dragon",
+                "Orion",
+                "Starliner",
+                "Crew Dragon"
+            ],
+            "answer": 4
+        },
+        {
+            "question": "Which planet in our solar system is known for its many volcanoes and lava fields?",
+            "options": [
+                "Venus",
+                "Mars",
+                "Mercury",
+                "Saturn"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "What is the name of the first spacecraft to reach interstellar space?",
+            "options": [
+                "Voyager 1",
+                "New Horizons",
+                "Pioneer 10",
+                "Cassini"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Which space agency was responsible for the first successful soft landing on the Moon?",
+            "options": [
+                "NASA",
+                "Roscosmos",
+                "ESA",
+                "CNSA"
+            ],
+            "answer": 1
+        }
+    ],
+    "scienceQuestions": [
+        {
+            "question": "Who is credited with discovering the theory of general relativity?",
+            "options": [
+                "Isaac Newton",
+                "Albert Einstein",
+                "Galileo Galilei",
+                "Nikola Tesla"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "What is the chemical symbol for the element gold?",
+            "options": [
+                "Au",
+                "Ag",
+                "Go",
+                "Gl"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Which scientist is known for developing the first successful polio vaccine?",
+            "options": [
+                "Jonas Salk",
+                "Marie Curie",
+                "Louis Pasteur",
+                "Alexander Fleming"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "What was the name of the first artificial satellite launched into space?",
+            "options": [
+                "Apollo 11",
+                "Hubble Space Telescope",
+                "Voyager 1",
+                "Sputnik 1"
+            ],
+            "answer": 4
+        },
+        {
+            "question": "Which of the following is not a greenhouse gas?",
+            "options": [
+                "Carbon dioxide",
+                "Nitrogen",
+                "Methane",
+                "Water vapor"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Who is known as the \"father of computing\"?",
+            "options": [
+                "Bill Gates",
+                "Steve Jobs",
+                "Alan Turing",
+                "Tim Berners-Lee"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "What is the smallest unit of matter?",
+            "options": [
+                "Atom",
+                "Molecule",
+                "Proton",
+                "Electron"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "What is the process by which plants convert sunlight into chemical energy?",
+            "options": [
+                "Photosynthesis",
+                "Respiration",
+                "Fermentation",
+                "Combustion"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Which planet is known as the \"Red Planet\"?",
+            "options": [
+                "Mars",
+                "Venus",
+                "Jupiter",
+                "Saturn"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Who invented the telephone?",
+            "options": [
+                "Alexander Graham Bell",
+                "Thomas Edison",
+                "Nikola Tesla",
+                "Guglielmo Marconi"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "What is the largest organ in the human body?",
+            "options": [
+                "Brain",
+                "Heart",
+                "Liver",
+                "Skin"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "What does DNA stand for?",
+            "options": [
+                "Deoxyribonucleic acid",
+                "Double-nucleotide assembly",
+                "Digital network architecture",
+                "Dynamic nucleic acid"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Which scientist discovered the laws of motion?",
+            "options": [
+                "Isaac Newton",
+                "Charles Darwin",
+                "Gregor Mendel",
+                "Albert Einstein"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "What is the unit of electric current?",
+            "options": [
+                "Ampere",
+                "Watt",
+                "Volt",
+                "Ohm"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Which country launched the world's first satellite navigation system called \"BeiDou\"?",
+            "options": [
+                "China",
+                "United States",
+                "Russia",
+                "Japan"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "What is the largest planet in our solar system?",
+            "options": [
+                "Jupiter",
+                "Saturn",
+                "Mars",
+                "Earth"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "What was the first programming language created?",
+            "options": [
+                "C++",
+                "Python",
+                "Fortran",
+                "Java"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Who is credited with discovering penicillin?",
+            "options": [
+                "Alexander Fleming",
+                "Louis Pasteur",
+                "Robert Koch",
+                "Edward Jenner"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "What is the process by which plants release water vapor through their leaves?",
+            "options": [
+                "Transpiration",
+                "Condensation",
+                "Evaporation",
+                "Precipitation"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "What is the speed of light in a vacuum?",
+            "options": [
+                "300,000 kilometers per second",
+                "150,000 kilometers per second",
+                "1,000,000 kilometers per second",
+                "299,792 kilometers per second"
+            ],
+            "answer": 4
+        },
+        {
+            "question": "What is the boiling point of water in Celsius?",
+            "options": [
+                "100°C",
+                "0°C",
+                "50°C",
+                "25°C"
+            ],
+            "answer": 1
+        }
+    ],
+    "geographyQuestions": [
+        {
+            "question": "What is the capital city of France?",
+            "options": [
+                "Paris",
+                "Madrid",
+                "Rome",
+                "Berlin"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Which is the longest river in the world?",
+            "options": [
+                "Nile",
+                "Amazon",
+                "Yangtze",
+                "Mississippi"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "In which country would you find the Great Barrier Reef?",
+            "options": [
+                "Australia",
+                "Brazil",
+                "India",
+                "Mexico"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "What is the highest mountain in the world?",
+            "options": [
+                "Mount Everest",
+                "K2",
+                "Kangchenjunga",
+                "Makalu"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Which African country is known as the 'Land of the Pharaohs'?",
+            "options": [
+                "Egypt",
+                "Kenya",
+                "South Africa",
+                "Nigeria"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "What is the largest desert in the world?",
+            "options": [
+                "Sahara Desert",
+                "Gobi Desert",
+                "Arabian Desert",
+                "Kalahari Desert"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Which ocean is the largest?",
+            "options": [
+                "Pacific Ocean",
+                "Atlantic Ocean",
+                "Indian Ocean",
+                "Arctic Ocean"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Which country is the smallest in the world?",
+            "options": [
+                "Vatican City",
+                "Monaco",
+                "Nauru",
+                "Tuvalu"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "What is the official language of Brazil?",
+            "options": [
+                "Portuguese",
+                "Spanish",
+                "English",
+                "French"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Which continent is the most populous?",
+            "options": [
+                "Asia",
+                "Africa",
+                "Europe",
+                "North America"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "What is the largest country by land area?",
+            "options": [
+                "Russia",
+                "Canada",
+                "China",
+                "United States"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Which country is both an island and a continent?",
+            "options": [
+                "Australia",
+                "Madagascar",
+                "New Zealand",
+                "Greenland"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "What is the currency of Japan?",
+            "options": [
+                "Yen",
+                "Euro",
+                "Dollar",
+                "Pound"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Which city is located at the confluence of the Danube and Sava rivers?",
+            "options": [
+                "Belgrade",
+                "Budapest",
+                "Vienna",
+                "Zagreb"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "In which country would you find the Great Barrier Reef?",
+            "options": [
+                "Australia",
+                "Brazil",
+                "India",
+                "Mexico"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "What is the highest mountain in the world?",
+            "options": [
+                "Mount Everest",
+                "K2",
+                "Kangchenjunga",
+                "Makalu"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Which African country is known as the 'Land of the Pharaohs'?",
+            "options": [
+                "Egypt",
+                "Kenya",
+                "South Africa",
+                "Nigeria"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "What is the largest desert in the world?",
+            "options": [
+                "Sahara Desert",
+                "Gobi Desert",
+                "Arabian Desert",
+                "Kalahari Desert"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Which ocean is the largest?",
+            "options": [
+                "Pacific Ocean",
+                "Atlantic Ocean",
+                "Indian Ocean",
+                "Arctic Ocean"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Which country is the smallest in the world?",
+            "options": [
+                "Vatican City",
+                "Monaco",
+                "Nauru",
+                "Tuvalu"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "What is the largest lake in Africa?",
+            "options": [
+                "Lake Victoria",
+                "Lake Tanganyika",
+                "Lake Malawi",
+                "Lake Chad"
+            ],
+            "answer": 1
+        }
+    ],
+    "frontendWebDevQuestions": [
+        {
+            "question": "What does CSS stand for?",
+            "options": [
+                "Cascading Style Sheets",
+                "Creative Style Sheets",
+                "Computer Style Sheets",
+                "Colorful Style Sheets"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "What is the purpose of HTML?",
+            "options": [
+                "To structure and present content on the web",
+                "To add interactivity to websites",
+                "To define the styling of web pages",
+                "To store and retrieve data on the server"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "What is the role of JavaScript in web development?",
+            "options": [
+                "To add interactivity and dynamic features to web pages",
+                "To define the visual layout of web pages",
+                "To handle server-side logic",
+                "To store and manage data"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "What is the purpose of the <head> tag in HTML?",
+            "options": [
+                "To contain metadata and document information",
+                "To define the visible content of the web page",
+                "To specify the main heading of the web page",
+                "To define the navigation links of the web page"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "What is the correct way to include an external JavaScript file in an HTML document?",
+            "options": [
+                "<script src=\"script.js\"></script>",
+                "<script href=\"script.js\"></script>",
+                "<script link=\"script.js\"></script>",
+                "<script include=\"script.js\"></script>"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "What is the box model in CSS?",
+            "options": [
+                "It describes how elements are rendered as rectangular boxes",
+                "It defines the size of the web page",
+                "It determines the layout of text on the web page",
+                "It specifies the color and background of elements"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "What is the purpose of the CSS property 'display: none'?",
+            "options": [
+                "To hide an element from the web page",
+                "To make an element visible on the web page",
+                "To align an element to the center of its container",
+                "To add a border around an element"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "What does the acronym 'HTTP' stand for?",
+            "options": [
+                "Hypertext Transfer Protocol",
+                "Hypertext Markup Protocol",
+                "Hypertext Transfer Page",
+                "Hypertext Markup Page"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "What is the purpose of media queries in CSS?",
+            "options": [
+                "To apply different styles based on the device's screen size",
+                "To specify the font styles and sizes",
+                "To create animations and transitions",
+                "To add images and videos to the web page"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "What is the role of a CSS preprocessor?",
+            "options": [
+                "To extend CSS with variables, nesting, and functions",
+                "To optimize the performance of CSS files",
+                "To generate HTML code dynamically",
+                "To handle client-server communication"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "What is the purpose of the 'alt' attribute in the HTML 'img' tag?",
+            "options": [
+                "To provide alternative text for screen readers and when the image cannot be displayed",
+                "To define the alignment of the image on the web page",
+                "To specify the width and height of the image",
+                "To add a caption below the image"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "What is the difference between margin and padding in CSS?",
+            "options": [
+                "Margin is the space outside an element, while padding is the space inside an element",
+                "Margin is the space inside an element, while padding is the space outside an element",
+                "Margin and padding are used interchangeably and have the same meaning",
+                "Margin and padding are used to define the same type of space around an element"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "What is the purpose of the 'float' property in CSS?",
+            "options": [
+                "To allow an element to wrap around a floated element",
+                "To align an element vertically within its container",
+                "To make an element appear above other elements on the web page",
+                "To apply a 3D transformation to an element"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "What is the purpose of the 'box-sizing' property in CSS?",
+            "options": [
+                "To control how the total width and height of an element is calculated",
+                "To specify the position of an element within its parent container",
+                "To add a border around an element",
+                "To define the background color of an element"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "What is the role of the 'querySelectorAll' method in JavaScript?",
+            "options": [
+                "To select multiple elements from the DOM based on a CSS selector",
+                "To select the first element from the DOM based on a CSS selector",
+                "To modify the style of an element",
+                "To create a new HTML element dynamically"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "What is the purpose of the 'localStorage' object in JavaScript?",
+            "options": [
+                "To store data locally in the user's web browser",
+                "To make HTTP requests to a server",
+                "To add event listeners to elements",
+                "To manipulate the DOM structure"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "What is the role of the 'async' attribute in the HTML 'script' tag?",
+            "options": [
+                "To specify that the script should be executed asynchronously",
+                "To define the source URL of the script",
+                "To add a delay before executing the script",
+                "To load the script only when the page has finished loading"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "What is the purpose of the 'transition' property in CSS?",
+            "options": [
+                "To create smooth animations between CSS property changes",
+                "To specify the font family of the text",
+                "To control the visibility of an element",
+                "To define the layout of table cells"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "What is the purpose of the 'flexbox' layout in CSS?",
+            "options": [
+                "To create flexible and responsive layouts",
+                "To add animation effects to elements",
+                "To define the font styles and sizes",
+                "To handle server-side logic"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "What is the role of the 'addEventListener' method in JavaScript?",
+            "options": [
+                "To attach an event handler function to an element",
+                "To create a new HTML element dynamically",
+                "To select multiple elements from the DOM based on a CSS selector",
+                "To store data locally in the user's web browser"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "What is the purpose of the 'fetch' function in JavaScript?",
+            "options": [
+                "To make HTTP requests and retrieve data from a server",
+                "To add interactivity and dynamic features to web pages",
+                "To align an element to the center of its container",
+                "To specify the width and height of an image"
+            ],
+            "answer": 1
+        }
+    ],
+    "airplaneQuestions": [
+        {
+            "question": "Which brothers are credited with inventing and building the world's first successful airplane?",
+            "options": [
+                "Wright Brothers",
+                "Boeing Brothers",
+                "Airbus Brothers",
+                "Douglas Brothers"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "What is the primary function of an airplane's ailerons?",
+            "options": [
+                "To control pitch",
+                "To control roll",
+                "To control yaw",
+                "To control thrust"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "What is the unit of measurement used to describe an airplane's speed?",
+            "options": [
+                "Knots",
+                "Miles per hour",
+                "Kilometers per hour",
+                "Feet per second"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Which part of an airplane's wing generates the majority of lift?",
+            "options": [
+                "Leading edge",
+                "Trailing edge",
+                "Fuselage",
+                "Airfoil"
+            ],
+            "answer": 4
+        },
+        {
+            "question": "What is the maximum speed achieved by the Concorde supersonic airliner?",
+            "options": [
+                "Mach 1.5",
+                "Mach 2.0",
+                "Mach 2.5",
+                "Mach 3.0"
+            ],
+            "answer": 4
+        },
+        {
+            "question": "Which type of engine is commonly used in most modern commercial airliners?",
+            "options": [
+                "Turbojet engine",
+                "Piston engine",
+                "Ramjet engine",
+                "Turbofan engine"
+            ],
+            "answer": 4
+        },
+        {
+            "question": "What is the world's largest passenger airliner?",
+            "options": [
+                "Airbus A380",
+                "Boeing 747",
+                "Embraer E195",
+                "Bombardier CRJ200"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Which term describes the angle between an airplane's wing and the oncoming air?",
+            "options": [
+                "Pitch",
+                "Roll",
+                "Yaw",
+                "Angle of attack"
+            ],
+            "answer": 4
+        },
+        {
+            "question": "Which of the following is an example of a vertical takeoff and landing (VTOL) aircraft?",
+            "options": [
+                "F-16 Fighting Falcon",
+                "Cessna 172",
+                "Boeing 787",
+                "Harrier Jump Jet"
+            ],
+            "answer": 4
+        },
+        {
+            "question": "What is the process called when an airplane changes its altitude from a higher level to a lower level?",
+            "options": [
+                "Climbing",
+                "Descending",
+                "Cruising",
+                "Taxiing"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Which control surface is used to control an airplane's pitch?",
+            "options": [
+                "Elevator",
+                "Rudder",
+                "Aileron",
+                "Flap"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "What is the process called when an airplane moves along the ground under its own power?",
+            "options": [
+                "Taxiing",
+                "Takeoff",
+                "Landing",
+                "Cruising"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Which component of an airplane's landing gear is responsible for absorbing the shock of landing?",
+            "options": [
+                "Strut",
+                "Tire",
+                "Brake",
+                "Wheel"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "What is the purpose of the flaps on an airplane's wings?",
+            "options": [
+                "To increase lift during takeoff and landing",
+                "To control roll",
+                "To adjust engine power",
+                "To provide stability"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Which instrument is used to measure the rate at which an airplane is climbing or descending?",
+            "options": [
+                "Vertical speed indicator",
+                "Attitude indicator",
+                "Turn coordinator",
+                "Heading indicator"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Which type of aircraft is designed to operate from both land and water?",
+            "options": [
+                "Floatplane",
+                "Helicopter",
+                "Glider",
+                "Blimp"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "What is the purpose of an airplane's spoilers?",
+            "options": [
+                "To reduce lift and increase drag",
+                "To control pitch",
+                "To control yaw",
+                "To adjust engine power"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Which component of an airplane's control system is responsible for controlling roll?",
+            "options": [
+                "Aileron",
+                "Elevator",
+                "Rudder",
+                "Flap"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Which instrument is used to measure the airspeed of an airplane?",
+            "options": [
+                "Airspeed indicator",
+                "Altimeter",
+                "Vertical speed indicator",
+                "Turn coordinator"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Which of the following is an example of a low-wing aircraft?",
+            "options": [
+                "Cessna 172",
+                "Piper J-3 Cub",
+                "Beechcraft Bonanza",
+                "Cirrus SR22"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "What is the primary purpose of an airplane's rudder?",
+            "options": [
+                "To control yaw",
+                "To control roll",
+                "To control pitch",
+                "To adjust engine power"
+            ],
+            "answer": 1
+        }
+    ]
+}

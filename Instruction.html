@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Instruction.css">
+    <link href="https://fonts.googleapis.com/css2?family=Ubuntu+Condensed&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Caesar+Dressing&display=swap" rel="stylesheet">
+    <title>The Big Quiz</title>
+</head>
+<body>
+    <nav id="navigation">
+        <div class="half_left">
+            <ul>
+                <a href="Home.html" target="_self"><img src="logo.png" alt="logo" id="logo"></a>
+                <li><a href="Home.html" target="_self">Home</a></li>
+                <li><a href="leaderboard.html" target="_self">Leaderboard</a></li>
+                <li><a href="#top" target="_self">Source</a></li>
+            </ul>
+        </div>
+        <div class="half_right">
+            <div class="lbutton">
+                <button id="login"></button>
+                <div id="logMenu">
+                    <a href="#">My Account</a>
+                    <a href="logout.html" target="_self">Logout</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+    <div id="container">
+        <h1>Quiz Instruction</h1>
+        <div id="instruction">
+            <ul>
+                <li>There are 20 Questions in the quiz.</li>
+                <li>Each question is of 1 point.</li>
+                <li>You will get only 60 seconds for each question.</li>
+                <li>You cannot come back to the skipped or answered question.</li>
+                <li>If you leave quiz in middle your score will not be evaluated.</li>
+            </ul>
+        </div>
+        <button id="start" onclick="Start()">Let's Play</button>
+    </div>
+    <script src="Instruction.js"></script>
+</body>
+</html>

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>The Big Quiz</title>
+    <link href="https://fonts.googleapis.com/css2?family=Ubuntu+Condensed&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="Quiz_Page.css">
+</head>
+
+<body>
+    <nav id="navigation">
+        <div class="half_left">
+            <ul>
+                <a href="Home.html" target="_self"><img src="logo.png" alt="logo" id="logo"></a>
+                <li><a href="Home.html" target="_self"><img src="Home.png" alt="Home"></a></li>
+            </ul>
+        </div>
+        <div class="half_right">
+            <div class="lbutton">
+                <button id="login"></button>
+                <div id="logMenu">
+                    <a href="#">My Account</a>
+                    <a href="logout.html" target="_self">Logout</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+    <div class="BigContainer">
+        <div class="container">
+            <div id="question"></div>
+            <div id="timer">01:00</div>
+            <div class="option">
+                <ul>
+                    <li><button id="Op1" onclick="Evaluate(1)"></button></li>
+                    <li><button id="Op2" onclick="Evaluate(2)"></button></li>
+                    <li><button id="Op3" onclick="Evaluate(3)"></button></li>
+                    <li><button id="Op4" onclick="Evaluate(4)"></button></li>
+                </ul>
+            </div>
+            <div id="result">
+            </div>
+        </div>
+        <div id="Score">
+            <h3>Score</h3>
+            <table id="Score_table">
+            </table>
+        </div>
+    </div>
+    <div id="control">
+        <button id="Next" onclick="RenderQ()">Next</button>
+        <button id="Skip" onclick="Skip()">Skip</button>
+    </div>
+    <div id="ShowScore"></div>
+    <footer id="footer">
+        <p>Copyright © 2023 FreeDev. All Rights Reserved. Designed by Divyanshu</p>
+    </footer>
+    
+</body>
+<script src="Quiz_Page.js"></script>
+
+</html>

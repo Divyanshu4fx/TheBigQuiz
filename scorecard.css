@@ -1,0 +1,106 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Ubuntu Condensed', sans-serif;
+    background: url("scorebg2.jpg") no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+}
+#navigation {
+    display: flex;
+    align-items: center;
+}
+
+
+.half_left ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
+
+.half_left ul li {
+    margin: 10px;
+}
+
+.half_left ul li a {
+    padding: 10px;
+    color: white;
+} 
+
+.half_left ul li a:hover {
+    color: rgb(0, 0, 0);
+}
+
+.half_left ul img {
+    height: auto;
+    width: 100px;
+    margin: 5px;
+}
+
+#heading {
+    text-align: center;
+    margin: 1vw;
+    font-size: 50px;
+}
+
+.box {
+    margin: auto;
+    width: 70vw;
+    height: 70vh;
+    margin-top: 8vh;
+}
+#score {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#scoretxt {
+    display: inline-block;
+    padding: 15px 20px;
+    background-color: #d84b46;;
+    color: #ffffff;
+    font-size: 40px;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-bottom: 25px;
+}
+
+
+
+#retake{
+    font-family: 'Ubuntu Condensed', sans-serif;
+    border: none;
+    display: inline-block;
+    padding: 10px 15px;
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 45px;
+    border-radius: 5px;
+    margin-bottom: 18px;
+    margin: 10px;
+}
+
+#retake:hover {
+    background-color: rgb(55, 121, 10);
+}
+#score h3 {
+    display: inline-block;
+    font-family: cursive;
+    font-size: 40px;
+    margin: 15px;
+    color: #ffffff;
+}
+
+#score img {
+    width: 16vw;
+    margin: 15px;
+}
+#image{
+    margin: 0px;
+    padding: 0px;
+}

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>The Big Quiz</title>
+    <link rel="stylesheet" href="Quiz_Selection.css">
+    <link href="https://fonts.googleapis.com/css2?family=Ubuntu+Condensed&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+    <nav id="navigation">
+        <div class="half_left">
+            <ul>
+                <a href="Home.html" target="_self"><img src="logo.png" alt="logo" id="logo"></a>
+                <li><a href="Home.html" target="_self">Home</a></li>
+                <li><a href="leaderboard.html" target="_self">Leaderboard</a></li>
+                <li><a href="#top" target="_self">Source</a></li>
+            </ul>
+        </div>
+        <div class="half_right">
+            <div class="lbutton">
+                <button id="login"></button>
+                <div id="logMenu">
+                    <a href="#">My Account</a>
+                    <a href="#">Logout</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+    <div id="main">
+    <div id="container">
+        <h1>Select a Topic</h1>
+        <ul>
+            <li><input type="search" placeholder="Search..." class="search"><i class="fa fa-search" style="font-size:30px"></i></li>
+            <li ><a href="Instruction.html" id="Space" onclick="Selection('spaceQuestions')">Space</a></li>
+            <li><a href="Instruction.html" id="Science" onclick="Selection('scienceQuestions')">Science</a></li>
+            <li><a href="Instruction.html" id="Geography" onclick="Selection('geographyQuestions')">Geography</a></li>
+            <li><a href="Instruction.html" id="frontendwebd" onclick="Selection('frontendWebDevQuestions')">Web Dev</a></li>
+            <li><a href="Instruction.html" id="aerospace" onclick="Selection('airplaneQuestions')">Aviation</a></li>
+        </ul>
+        <h2>More Topics Coming Soom...</h2>
+    </div>
+</div>
+    <script src="Quiz_Selection.js"></script>
+</body>
+</html>

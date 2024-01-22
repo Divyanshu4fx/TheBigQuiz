@@ -1,0 +1,294 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    position: relative;
+
+}
+
+body {
+    background-image: url("selectionbg7.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#navigation {
+    display: flex;
+    align-items: center;
+    background-image: linear-gradient(#00218B, #0783D9);
+    margin-bottom: 10px;
+}
+
+.half_left {
+    display: inline-block;
+    width: 92.8%;
+}
+
+.half_left ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
+
+.half_left ul li {
+    margin: 5px;
+}
+
+.half_left ul li a {
+    text-decoration: none;
+    color: whitesmoke;
+    font-weight: bold;
+    border-radius: 5px;
+    font-size: large;
+    padding: 10px;
+    font-family: 'Ubuntu Condensed', sans-serif;
+}
+
+.half_left ul li a img {
+    height: auto;
+    width: 30px;
+}
+
+
+.half_left ul li a:hover {
+    background-image: linear-gradient(#00218B, #0783D9);
+}
+
+.half_left ul img {
+    height: auto;
+    width: 100px;
+    margin: 5px;
+}
+
+
+.half_right {
+    display: inline-block;
+    margin-right: 0px;
+}
+
+.lbutton {
+    justify-content: right;
+    align-items: center;
+    transition: display 0.3s ease;
+}
+
+#login {
+    text-decoration: none;
+    text-align: center;
+    font-family: 'Ubuntu Condensed', sans-serif;
+    background-color: transparent;
+    border: none;
+    color: whitesmoke;
+    font-size: large;
+    font-weight: bold;
+    padding: 0px;
+    background-image: linear-gradient(#00218B, #0783D9);
+
+}
+
+#login img {
+    height: auto;
+    width: 40px;
+}
+
+#login p {
+    display: flex;
+    padding: 15px 10px;
+    border-radius: 5px;
+}
+
+#login :hover {
+    background-image: linear-gradient( #0783D9,#00218B);
+}
+
+#login img:hover {
+    background-image: none;
+}
+
+#logMenu {
+    font-family: 'Ubuntu Condensed', sans-serif;
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 100px;
+    box-shadow: 0px 8px 16px 0px rgba(255, 255, 255, 0.2);
+    z-index: 1;
+    top: 68px;
+    right: 20px;
+    background-image: linear-gradient(#00218B, #0783D9);
+    border-radius: 5px;
+    opacity: 0;
+    animation: fade-in 1s forwards;
+}
+
+@keyframes fade-in {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+#logMenu a {
+    color: rgb(255, 255, 255);
+    padding: 12px 16px;
+    text-decoration: none;
+    font-weight: bold;
+    display: block;
+}
+
+#logMenu a:hover {
+    color: rgb(0, 0, 0);
+}
+
+.lbutton:hover #logMenu {
+    display: block;
+}
+
+#main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#container {
+    border: 2px rgb(255, 255, 255) solid;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
+    font-family: 'Ubuntu Condensed', sans-serif;
+    box-sizing: border-box;
+    border-color: darkcyan;
+    padding: 5px;
+    margin: 20px;
+    text-align: center;
+    border-radius: 5px;
+    width: 900px;
+    backdrop-filter: blur(8px);
+}
+
+#container h1 {
+    font-size: 70px;
+    font-weight: bold;
+    margin: 20px;
+    color: white;
+}
+
+#container ul {
+    list-style: none;
+    justify-content: center;
+}
+
+
+#container ul li a {
+    border: 1px rgb(255, 255, 255) solid;
+    box-shadow: 5px 5px 5px rgb(0, 0, 0,0.6);
+    color: white;
+    text-decoration: none;
+    padding: 50px;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: x-large;
+    transition: font-size 0.3s ease;
+}
+
+#container ul li a:hover {
+    font-size: xx-large;
+    color: rgb(255, 98, 0);
+}
+#container h2{
+    padding: 5px 50px;
+    margin: 5px;
+    color: white;
+    background-color: black;
+    border-radius: 20px;
+    display: inline-block;
+}
+
+.search{
+    width: 50%;
+    border-radius: 10px;
+    padding: 5px;
+    border: 2px solid white;
+    font-family: 'Ubuntu Condensed', sans-serif;
+    font-size: larger;
+}
+i{
+    position: relative;
+    padding-left: 4px;
+    color: white;
+    top:2px;
+}
+.search :focus{
+    outline: none;
+}
+#Space {
+    background-image: url("Space.jpg");
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 50%;
+    height: 5%;
+}
+
+#Science {
+    background-image: url("Science.jpg");
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 50%;
+    height: 5%;
+}
+
+#Geography {
+    background-image: url("Geography.jpg");
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 50%;
+    height: 5%;
+}
+
+#frontendwebd {
+    background-image: url("frontendwebd.jpg");
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 50%;
+    height: 5%;
+}
+
+#aerospace {
+    background-image: url("aerospace.jpg");
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 50%;
+    height: 5%;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background-color: #606060;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background-color: #888;
+    border-radius: 5px;
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background-color: #747474;
+    width: 13px;
+  }
+  
